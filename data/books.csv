@@ -1,0 +1,5 @@
+book_id,title,isbn,publication_year,category_id
+1,Designing Data-Intensive Applications,9781449373320,2017,2
+2,Database Internals,9781492040347,2019,2
+3,Clean Code,9780132350884,2008,3
+4,The Pragmatic Programmer,9780135957059,2019,1
